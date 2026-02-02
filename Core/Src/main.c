@@ -100,7 +100,7 @@ int main(void)
     Lcd_ColorBox(0, 0, 240, 240, BLUE); //
     draw_Bat(130, 10, 3);               //
 
-    LCD_PutString(60, 110, "hjrkj", RED, YELLOW, 1);
+    LCD_PutString(60, 110, "Ó“»Ûø∆ºº", RED, YELLOW, 1);
     LCD_PutString(60, 130, "www.hjrkj.com", RED, YELLOW, 1);
 
     //LCD_Fill_Pic(60,150,128, 64, (u8*)gImage_icon_128x128);
